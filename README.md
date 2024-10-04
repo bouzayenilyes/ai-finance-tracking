@@ -1,7 +1,5 @@
 <div align="center">
   <br />
-      <img src="https://i.postimg.cc/tJsYLQcP/test1.jpg" alt="Project Banner">
-    </a>
   
   <br />
 
