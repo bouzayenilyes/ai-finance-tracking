@@ -1,6 +1,5 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/dGHFV_RMGag" target="_blank">
       /* <img src="https://i.postimg.cc/tJsYLQcP/test1.jpg" alt="Project Banner">*/
     </a>
   
@@ -14,9 +13,6 @@
 
   <h3 align="center">Finan Smart</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@albertmends" target="_blank"><b>Your YouTube Channel</b></a>. Join the community!
-    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -28,11 +24,6 @@
 5. 🕸️ [Assets & Code](#snippets)
 6. 🚀 [More](#more)
 
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@albertmends/videos" target="_blank"><b>Code with Albert</b></a>.
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -114,10 +105,3 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## <a name="snippets">🕸️ Assets & Code</a>
-
-The repository includes all the assets and code you need to get started with Finan Smart. Follow along with our YouTube tutorial for a step-by-step guide.
-
-## <a name="more">🚀 More</a>
-
-For more information and additional resources, check out our YouTube channel and join our Discord community for support and discussions.
